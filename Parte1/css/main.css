@@ -1,1 +1,15 @@
-/* Pon tu código css aqui */
+.caja1{
+    width: 300px;
+    height: 200px;
+    background-color:yellow;
+}
+.caja2{
+    width: 300px;
+    height: 200px;
+    background-color:cornflowerblue;
+}
+.caja3{
+    width: 300px;
+    height: 200px;
+    background-color:crimson;
+}
