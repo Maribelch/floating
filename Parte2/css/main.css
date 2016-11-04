@@ -1,1 +1,27 @@
-/* Pon tu código css aqui */
+
+.bu{
+    width: 300px;
+    height: 200px;
+    background-color:yellow;
+    float:right;
+    
+}
+.bo{
+    width: 300px;
+    height: 200px;
+    background-color:cornflowerblue;
+    float:right;
+    
+}
+.bi{
+    width: 300px;
+    height: 200px;
+    background-color:crimson;
+    float:right;    
+}
+.be{
+      width: 682px;
+    height: 200px;
+    background-color:#FFFFFF;
+    float:right; 
+}
