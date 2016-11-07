@@ -1,1 +1,9 @@
-/* Pon tu código css aqui */
+div{
+    float: right;
+    width: 350px;
+    height: 200px
+}
+div:nth-child(1){background-color:yellow;}  
+div:nth-child(2){background-color: cornflowerblue;}
+div:nth-child(3){background-color:#DC143C;}
+div:nth-child(4){background-color:#ffffff;}
